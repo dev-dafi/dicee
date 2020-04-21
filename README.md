@@ -1,4 +1,5 @@
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
+![Dicee Mockup](Documentation/dicee-mockup.jpg)
 
 # Dicee
 This is the finished project, from the Udemy course Complete iOS App Development Bootcamp.
